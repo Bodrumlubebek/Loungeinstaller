@@ -1,24 +1,20 @@
-# Siri Installer
+# Lounge Installer
 
-### SiriUserbot Otomatik Deployer
+### LoungeUserbot Otomatik Deployer
 
-[Siri UserBot Reposu](https://github.com/SiriUserBot/siriuserbot)
+[Lounge UserBot Reposu](https://github.com/bodrumlubebek/loungeuserbot)
 
 ## Kurulum
-```sh
-git clone https://github.com/SiriUserBot/siriuserbot 
-cd installer
-pip install -r requirements.txt
-python3 -m siri_installer
+```YAKINDA...!
 ```
 
 ### Termux Kurulum
 
-``` bash <(curl -L https://bit.ly/3tUBVha) ```
+``` YAKINDA...! ```
 
 ## Geliştiriciler
 
-[![Berce](https://github.com/must4f.png?size=100)](https://t.me/siriuserbot)
+[![Bodrumlu](https://avatars.githubusercontent.com/u/77246283?v=4)](https://t.me/loungesupport)
 
 ## Lisans
 Bu proje GPL-3.0 lisansı ile korunmaktadır.Tum Haklar Saklıdır
